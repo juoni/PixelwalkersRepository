@@ -1,0 +1,57 @@
+Initialize engine version: 4.2.2f1-wiiu_11 (79a8acf796c0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [igdumdim32.dll 10.18.10.3316]
+    Renderer: Intel(R) HD Graphics 4600
+    Vendor:   Intel
+    VRAM:     1792 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=1 DF24=1 INTZ=1 RAWZ=0 NULL=1 RESZ=1 SlowINTZ=0
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\terrence\Desktop\MainMenu_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\terrence\Desktop\MainMenu_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\terrence\Desktop\MainMenu_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\terrence\Desktop\MainMenu_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+- Completed reload, in  0.170 seconds
+desktop: 1600x900 60Hz; virtual: 1600x900 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Added:LoadGame as an option
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GenericMenuController:InitilizeOptions() (at C:\Users\terrence\Documents\GitHub\ChaosComplexOTA\CC-UnityProject\Assets\CoreScripts\Interface3D\Menu\GenericMenuController.cs:107)
+MainMenuController:Start() (at C:\Users\terrence\Documents\GitHub\ChaosComplexOTA\CC-UnityProject\Assets\CoreScripts\Interface3D\MainMenuController.cs:34)
+ 
+(Filename: C Line: 0)
+
+Added:Options as an option
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GenericMenuController:InitilizeOptions() (at C:\Users\terrence\Documents\GitHub\ChaosComplexOTA\CC-UnityProject\Assets\CoreScripts\Interface3D\Menu\GenericMenuController.cs:107)
+MainMenuController:Start() (at C:\Users\terrence\Documents\GitHub\ChaosComplexOTA\CC-UnityProject\Assets\CoreScripts\Interface3D\MainMenuController.cs:34)
+ 
+(Filename: C Line: 0)
+
+Added:NewGame as an option
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GenericMenuController:InitilizeOptions() (at C:\Users\terrence\Documents\GitHub\ChaosComplexOTA\CC-UnityProject\Assets\CoreScripts\Interface3D\Menu\GenericMenuController.cs:107)
+MainMenuController:Start() (at C:\Users\terrence\Documents\GitHub\ChaosComplexOTA\CC-UnityProject\Assets\CoreScripts\Interface3D\MainMenuController.cs:34)
+ 
+(Filename: C Line: 0)
+
+Added:Exit as an option
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GenericMenuController:InitilizeOptions() (at C:\Users\terrence\Documents\GitHub\ChaosComplexOTA\CC-UnityProject\Assets\CoreScripts\Interface3D\Menu\GenericMenuController.cs:107)
+MainMenuController:Start() (at C:\Users\terrence\Documents\GitHub\ChaosComplexOTA\CC-UnityProject\Assets\CoreScripts\Interface3D\MainMenuController.cs:34)
+ 
+(Filename: C Line: 0)
+
+Added:ClashOtA as an option
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GenericMenuController:InitilizeOptions() (at C:\Users\terrence\Documents\GitHub\ChaosComplexOTA\CC-UnityProject\Assets\CoreScripts\Interface3D\Menu\GenericMenuController.cs:107)
+MainMenuController:Start() (at C:\Users\terrence\Documents\GitHub\ChaosComplexOTA\CC-UnityProject\Assets\CoreScripts\Interface3D\MainMenuController.cs:34)
+ 
+(Filename: C Line: 0)
+
